@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "generated_at": "",
+  "baseline_commit": "",
+  "checks": [
+    {
+      "id": "check-001",
+      "command": "",
+      "working_directory": "",
+      "timestamp": "",
+      "status": "unresolved",
+      "exit_code": null,
+      "evidence": "",
+      "proves_acceptance_criteria": []
+    }
+  ],
+  "overall": "unresolved",
+  "unresolved_checks": [
+    "check-001"
+  ]
+}

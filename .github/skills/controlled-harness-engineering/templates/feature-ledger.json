@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "objective": "Replace with the approved, measurable outcome.",
+  "baseline": {
+    "branch": "",
+    "commit": "",
+    "working_tree": "unknown"
+  },
+  "features": [
+    {
+      "id": "example-feature",
+      "title": "Implementing one measurable behavior",
+      "status": "pending",
+      "dependencies": [],
+      "acceptance_criteria": [
+        "A specific observable behavior is demonstrated by a test."
+      ],
+      "expected_files": [],
+      "changed_files": [],
+      "verification_commands": [],
+      "evidence_ids": []
+    }
+  ]
+}

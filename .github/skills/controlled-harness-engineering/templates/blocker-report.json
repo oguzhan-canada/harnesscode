@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "blockers": [
+    {
+      "id": "example-blocker",
+      "type": "human_decision",
+      "description": "Replace with the unresolved decision or dependency.",
+      "status": "pending",
+      "blocks_features": [
+        "example-feature"
+      ],
+      "resolution": "",
+      "resolved_at": null
+    }
+  ]
+}

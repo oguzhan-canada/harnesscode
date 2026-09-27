@@ -44,6 +44,15 @@ Supports both [OpenCode](https://opencode.ai) and [Claude Code](https://www.anth
 ### 🌐 Tech Stack Agnostic
 Java/Spring Boot, Python, Node.js, React, Vue... Any tech stack, just define `tech-stack.md` to start.
 
+### 🛡️ Controlled Copilot Workflow
+
+This fork includes an optional GitHub Copilot skill at
+`.github/skills/controlled-harness-engineering/`. It adapts HarnessCode's role
+separation and state tracking into a bounded workflow with test-first
+implementation, persistent verification evidence, worktree isolation, and
+explicit human approval gates. It does not run the original unattended loop or
+enable automatic commits.
+
 ---
 
 ## Installation
